@@ -1,3 +1,6 @@
+
+![WaterPy: poner marcas de agua con Python](https://lh3.googleusercontent.com/OCypAE7u8SwjqiielBEo2aC8O9jD5u78_ST6jmWDYUxwFZugJ8v4s4yHF9KhkjGHsH03=s168)
+
 # WaterPy
 ![WaterPy: poner marcas de agua con Python](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
 
@@ -52,6 +55,7 @@ Instala PyInstaller y aprende a usarlo, para ello lee estos dos posts:
  1. [Compilar a ejecutable un archivo de Python](https://parzibyte.me/blog/2018/03/23/empaquetando-python-generar-archivo-exe/)
     
 2. [Agregar assets a archivo ejecutable de Python](https://parzibyte.me/blog/2018/12/27/pyinstaller-assets-imagenes-archivos-ejecutable-python/)
+
 
 Luego añade al archivo **spec** lo siguiente
 ```python
